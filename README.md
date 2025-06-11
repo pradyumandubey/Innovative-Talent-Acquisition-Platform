@@ -16,7 +16,7 @@ A scalable backend solution designed to streamline and automate the hiring proce
 ---
 
 ## 📅 Duration
-**Expected Completion: May 2025**
+**Jan 2025 - Mar 2025**
 
 ---
 
